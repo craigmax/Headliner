@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Headliner</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="rated">Rated:</string>
+    <string name="short_summary">Short Summary</string>
+    <string name="opens">Opens:</string>
+    <string name="date">date</string>
+    <string name="rating">rating</string>
+    <string name="movie_icon">Movie Icon</string>
+</resources>
